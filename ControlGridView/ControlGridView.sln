@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlGridView", "ControlGridView\ControlGridView.csproj", "{405D0317-7A6A-499F-8045-68FAEE206860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{405D0317-7A6A-499F-8045-68FAEE206860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{405D0317-7A6A-499F-8045-68FAEE206860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{405D0317-7A6A-499F-8045-68FAEE206860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{405D0317-7A6A-499F-8045-68FAEE206860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA0A5148-47AE-452D-A445-153C56A3F9D6}
+	EndGlobalSection
+EndGlobal
